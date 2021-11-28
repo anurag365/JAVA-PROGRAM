@@ -5,7 +5,7 @@ public class Have_good_day {
     public static void main(String[] args){
 
         Scanner sc= new Scanner(System.in);
-        System.out.println("WHAT IS YOUR NAME ?");
+        System.out.println("what is your pet name ?");
 
 
         String name = sc.next();
