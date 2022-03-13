@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch EvenOrOdd",
+      "request": "launch",
+      "mainClass": "EvenOrOdd",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
       "name": "Launch LeapYear",
       "request": "launch",
       "mainClass": "LeapYear",
