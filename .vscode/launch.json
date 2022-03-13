@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch LeapYear",
+      "request": "launch",
+      "mainClass": "LeapYear",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
       "name": "Launch integer_not",
       "request": "launch",
       "mainClass": "integer_not",
