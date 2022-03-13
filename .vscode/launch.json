@@ -1,532 +1,616 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Launch output",
-            "request": "launch",
-            "mainClass": "output",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch file_handling",
-            "request": "launch",
-            "mainClass": "file_handling",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch date_time_fromatter",
-            "request": "launch",
-            "mainClass": "date_time_fromatter",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch java_time",
-            "request": "launch",
-            "mainClass": "java_time",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch gregorian_calender",
-            "request": "launch",
-            "mainClass": "gregorian_calender",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch calender_class",
-            "request": "launch",
-            "mainClass": "calender_class",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch date_class",
-            "request": "launch",
-            "mainClass": "com.company.date_class",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch dates",
-            "request": "launch",
-            "mainClass": "com.company.dates",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch array_deque",
-            "request": "launch",
-            "mainClass": "array_deque",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch linked_list",
-            "request": "launch",
-            "mainClass": "linked_list",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch arraylist",
-            "request": "launch",
-            "mainClass": "arraylist",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch custom_calculator",
-            "request": "launch",
-            "mainClass": "custom_calculator",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch pratise_set_14",
-            "request": "launch",
-            "mainClass": "pratise_set_14",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch finally_block",
-            "request": "launch",
-            "mainClass": "finally_block",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch throw_throws",
-            "request": "launch",
-            "mainClass": "throw_throws",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch excption_class",
-            "request": "launch",
-            "mainClass": "com.company.excption_class",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch nested_try_catch",
-            "request": "launch",
-            "mainClass": "com.company.nested_try_catch",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch specific_exception",
-            "request": "launch",
-            "mainClass": "specific_exception",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch try_catch",
-            "request": "launch",
-            "mainClass": "try_catch",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch practise_ser_13",
-            "request": "launch",
-            "mainClass": "practise_ser_13",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch thread_priorities",
-            "request": "launch",
-            "mainClass": "thread_priorities",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch constructor_in_thread",
-            "request": "launch",
-            "mainClass": "constructor_in_thread",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Launch CWH_Ch2_Operators",
-            "request": "launch",
-            "mainClass": "CWH_Ch2_Operators",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch Calculator$CH_12_practise_set",
-            "request": "launch",
-            "mainClass": "Calculator$CH_12_practise_set",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch Exercise_4",
-            "request": "launch",
-            "mainClass": "Exercise_4",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch Have_good_day",
-            "request": "launch",
-            "mainClass": "Have_good_day",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch MILES_KMS",
-            "request": "launch",
-            "mainClass": "MILES_KMS",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch abstract_classes_interfaces",
-            "request": "launch",
-            "mainClass": "abstract_classes_interfaces",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch abstract_classes_interfaces_practise_set",
-            "request": "launch",
-            "mainClass": "abstract_classes_interfaces_practise_set",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch access_ps_09",
-            "request": "launch",
-            "mainClass": "access_ps_09",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cgpa_finder",
-            "request": "launch",
-            "mainClass": "cgpa_finder",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch Main",
-            "request": "launch",
-            "mainClass": "com.company.Main",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch constuctor_in_thread",
-            "request": "launch",
-            "mainClass": "constuctor_in_thread",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_09_ch2_op_pre",
-            "request": "launch",
-            "mainClass": "cwh_09_ch2_op_pre",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_10_resulting_data_type",
-            "request": "launch",
-            "mainClass": "cwh_10_resulting_data_type",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_11_ex1_sol",
-            "request": "launch",
-            "mainClass": "cwh_11_ex1_sol",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_13_strings",
-            "request": "launch",
-            "mainClass": "cwh_13_strings",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_14_string_methods",
-            "request": "launch",
-            "mainClass": "cwh_14_string_methods",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_15_ps3",
-            "request": "launch",
-            "mainClass": "cwh_15_ps3",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_17_logical",
-            "request": "launch",
-            "mainClass": "cwh_17_logical",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_18_elseif",
-            "request": "launch",
-            "mainClass": "cwh_18_elseif",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_19_ch4_ps",
-            "request": "launch",
-            "mainClass": "cwh_19_ch4_ps",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_21_ch5_loops",
-            "request": "launch",
-            "mainClass": "cwh_21_ch5_loops",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_22_ch4_do_while",
-            "request": "launch",
-            "mainClass": "cwh_22_ch4_do_while",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_23_for_loop",
-            "request": "launch",
-            "mainClass": "cwh_23_for_loop",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_24_break_and_continue",
-            "request": "launch",
-            "mainClass": "cwh_24_break_and_continue",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_25_practice_set_5",
-            "request": "launch",
-            "mainClass": "cwh_25_practice_set_5",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_26_arrays",
-            "request": "launch",
-            "mainClass": "cwh_26_arrays",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_27_arrays",
-            "request": "launch",
-            "mainClass": "cwh_27_arrays",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_28_multi_dim_arrays",
-            "request": "launch",
-            "mainClass": "cwh_28_multi_dim_arrays",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_29_Practice_Set_6",
-            "request": "launch",
-            "mainClass": "cwh_29_Practice_Set_6",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_31_methods",
-            "request": "launch",
-            "mainClass": "cwh_31_methods",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_32_method_overloading",
-            "request": "launch",
-            "mainClass": "cwh_32_method_overloading",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_34_recursion",
-            "request": "launch",
-            "mainClass": "cwh_34_recursion",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_39_ch8ps",
-            "request": "launch",
-            "mainClass": "cwh_39_ch8ps",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_40_ch9",
-            "request": "launch",
-            "mainClass": "cwh_40_ch9",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch cwh_42_constructors",
-            "request": "launch",
-            "mainClass": "cwh_42_constructors",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch default_methods",
-            "request": "launch",
-            "mainClass": "default_methods",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch dynamic_method_dispatch",
-            "request": "launch",
-            "mainClass": "dynamic_method_dispatch",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch exercise_3",
-            "request": "launch",
-            "mainClass": "exercise_3",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch inheritence",
-            "request": "launch",
-            "mainClass": "inheritence",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch inheritence_in_interfaces",
-            "request": "launch",
-            "mainClass": "inheritence_in_interfaces",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch integer_not",
-            "request": "launch",
-            "mainClass": "integer_not",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch interfaces",
-            "request": "launch",
-            "mainClass": "interfaces",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch literals",
-            "request": "launch",
-            "mainClass": "literals",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch method_overriding",
-            "request": "launch",
-            "mainClass": "method_overriding",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch percentage_calculator",
-            "request": "launch",
-            "mainClass": "percentage_calculator",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch poliymorphidm_in_interfaces",
-            "request": "launch",
-            "mainClass": "poliymorphidm_in_interfaces",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch practise_set_ch10",
-            "request": "launch",
-            "mainClass": "practise_set_ch10",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch runnable_interface",
-            "request": "launch",
-            "mainClass": "runnable_interface",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch sum_three_numbers",
-            "request": "launch",
-            "mainClass": "sum_three_numbers",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch takinginputfromtheuser",
-            "request": "launch",
-            "mainClass": "takinginputfromtheuser",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch this_super_class",
-            "request": "launch",
-            "mainClass": "this_super_class",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        },
-        {
-            "type": "java",
-            "name": "Launch thread_class",
-            "request": "launch",
-            "mainClass": "thread_class",
-            "projectName": "JAVA PROGRAM_a68dbf5f"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch integer_not",
+      "request": "launch",
+      "mainClass": "integer_not",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch output",
+      "request": "launch",
+      "mainClass": "output",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch greaterTwo",
+      "request": "launch",
+      "mainClass": "greaterTwo",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch arraylist",
+      "request": "launch",
+      "mainClass": "arraylist",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch abcd",
+      "request": "launch",
+      "mainClass": "abcd",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch MILES_KMS",
+      "request": "launch",
+      "mainClass": "MILES_KMS",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch method_thead",
+      "request": "launch",
+      "mainClass": "method_thead",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch finally_block",
+      "request": "launch",
+      "mainClass": "finally_block",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch cgpa_finder",
+      "request": "launch",
+      "mainClass": "cgpa_finder",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_23_for_loop",
+      "request": "launch",
+      "mainClass": "cwh_23_for_loop",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch custom_calculator",
+      "request": "launch",
+      "mainClass": "custom_calculator",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch array_deque",
+      "request": "launch",
+      "mainClass": "array_deque",
+      "projectName": "JAVA PROGRAM_6929a0"
+    },
+    {
+      "type": "java",
+      "name": "Launch output",
+      "request": "launch",
+      "mainClass": "output",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch file_handling",
+      "request": "launch",
+      "mainClass": "file_handling",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch date_time_fromatter",
+      "request": "launch",
+      "mainClass": "date_time_fromatter",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch java_time",
+      "request": "launch",
+      "mainClass": "java_time",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch gregorian_calender",
+      "request": "launch",
+      "mainClass": "gregorian_calender",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch calender_class",
+      "request": "launch",
+      "mainClass": "calender_class",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch date_class",
+      "request": "launch",
+      "mainClass": "com.company.date_class",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch dates",
+      "request": "launch",
+      "mainClass": "com.company.dates",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch array_deque",
+      "request": "launch",
+      "mainClass": "array_deque",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch linked_list",
+      "request": "launch",
+      "mainClass": "linked_list",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch arraylist",
+      "request": "launch",
+      "mainClass": "arraylist",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch custom_calculator",
+      "request": "launch",
+      "mainClass": "custom_calculator",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch pratise_set_14",
+      "request": "launch",
+      "mainClass": "pratise_set_14",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch finally_block",
+      "request": "launch",
+      "mainClass": "finally_block",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch throw_throws",
+      "request": "launch",
+      "mainClass": "throw_throws",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch excption_class",
+      "request": "launch",
+      "mainClass": "com.company.excption_class",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch nested_try_catch",
+      "request": "launch",
+      "mainClass": "com.company.nested_try_catch",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch specific_exception",
+      "request": "launch",
+      "mainClass": "specific_exception",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch try_catch",
+      "request": "launch",
+      "mainClass": "try_catch",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch practise_ser_13",
+      "request": "launch",
+      "mainClass": "practise_ser_13",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch thread_priorities",
+      "request": "launch",
+      "mainClass": "thread_priorities",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch constructor_in_thread",
+      "request": "launch",
+      "mainClass": "constructor_in_thread",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch CWH_Ch2_Operators",
+      "request": "launch",
+      "mainClass": "CWH_Ch2_Operators",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Calculator$CH_12_practise_set",
+      "request": "launch",
+      "mainClass": "Calculator$CH_12_practise_set",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise_4",
+      "request": "launch",
+      "mainClass": "Exercise_4",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Have_good_day",
+      "request": "launch",
+      "mainClass": "Have_good_day",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch MILES_KMS",
+      "request": "launch",
+      "mainClass": "MILES_KMS",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch abstract_classes_interfaces",
+      "request": "launch",
+      "mainClass": "abstract_classes_interfaces",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch abstract_classes_interfaces_practise_set",
+      "request": "launch",
+      "mainClass": "abstract_classes_interfaces_practise_set",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch access_ps_09",
+      "request": "launch",
+      "mainClass": "access_ps_09",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cgpa_finder",
+      "request": "launch",
+      "mainClass": "cgpa_finder",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "com.company.Main",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch constuctor_in_thread",
+      "request": "launch",
+      "mainClass": "constuctor_in_thread",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_09_ch2_op_pre",
+      "request": "launch",
+      "mainClass": "cwh_09_ch2_op_pre",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_10_resulting_data_type",
+      "request": "launch",
+      "mainClass": "cwh_10_resulting_data_type",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_11_ex1_sol",
+      "request": "launch",
+      "mainClass": "cwh_11_ex1_sol",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_13_strings",
+      "request": "launch",
+      "mainClass": "cwh_13_strings",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_14_string_methods",
+      "request": "launch",
+      "mainClass": "cwh_14_string_methods",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_15_ps3",
+      "request": "launch",
+      "mainClass": "cwh_15_ps3",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_17_logical",
+      "request": "launch",
+      "mainClass": "cwh_17_logical",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_18_elseif",
+      "request": "launch",
+      "mainClass": "cwh_18_elseif",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_19_ch4_ps",
+      "request": "launch",
+      "mainClass": "cwh_19_ch4_ps",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_21_ch5_loops",
+      "request": "launch",
+      "mainClass": "cwh_21_ch5_loops",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_22_ch4_do_while",
+      "request": "launch",
+      "mainClass": "cwh_22_ch4_do_while",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_23_for_loop",
+      "request": "launch",
+      "mainClass": "cwh_23_for_loop",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_24_break_and_continue",
+      "request": "launch",
+      "mainClass": "cwh_24_break_and_continue",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_25_practice_set_5",
+      "request": "launch",
+      "mainClass": "cwh_25_practice_set_5",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_26_arrays",
+      "request": "launch",
+      "mainClass": "cwh_26_arrays",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_27_arrays",
+      "request": "launch",
+      "mainClass": "cwh_27_arrays",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_28_multi_dim_arrays",
+      "request": "launch",
+      "mainClass": "cwh_28_multi_dim_arrays",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_29_Practice_Set_6",
+      "request": "launch",
+      "mainClass": "cwh_29_Practice_Set_6",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_31_methods",
+      "request": "launch",
+      "mainClass": "cwh_31_methods",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_32_method_overloading",
+      "request": "launch",
+      "mainClass": "cwh_32_method_overloading",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_34_recursion",
+      "request": "launch",
+      "mainClass": "cwh_34_recursion",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_39_ch8ps",
+      "request": "launch",
+      "mainClass": "cwh_39_ch8ps",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_40_ch9",
+      "request": "launch",
+      "mainClass": "cwh_40_ch9",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch cwh_42_constructors",
+      "request": "launch",
+      "mainClass": "cwh_42_constructors",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch default_methods",
+      "request": "launch",
+      "mainClass": "default_methods",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch dynamic_method_dispatch",
+      "request": "launch",
+      "mainClass": "dynamic_method_dispatch",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch exercise_3",
+      "request": "launch",
+      "mainClass": "exercise_3",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch inheritence",
+      "request": "launch",
+      "mainClass": "inheritence",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch inheritence_in_interfaces",
+      "request": "launch",
+      "mainClass": "inheritence_in_interfaces",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch integer_not",
+      "request": "launch",
+      "mainClass": "integer_not",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch interfaces",
+      "request": "launch",
+      "mainClass": "interfaces",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch literals",
+      "request": "launch",
+      "mainClass": "literals",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch method_overriding",
+      "request": "launch",
+      "mainClass": "method_overriding",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch percentage_calculator",
+      "request": "launch",
+      "mainClass": "percentage_calculator",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch poliymorphidm_in_interfaces",
+      "request": "launch",
+      "mainClass": "poliymorphidm_in_interfaces",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch practise_set_ch10",
+      "request": "launch",
+      "mainClass": "practise_set_ch10",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch runnable_interface",
+      "request": "launch",
+      "mainClass": "runnable_interface",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch sum_three_numbers",
+      "request": "launch",
+      "mainClass": "sum_three_numbers",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch takinginputfromtheuser",
+      "request": "launch",
+      "mainClass": "takinginputfromtheuser",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch this_super_class",
+      "request": "launch",
+      "mainClass": "this_super_class",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch thread_class",
+      "request": "launch",
+      "mainClass": "thread_class",
+      "projectName": "JAVA PROGRAM_a68dbf5f"
+    }
+  ]
 }
